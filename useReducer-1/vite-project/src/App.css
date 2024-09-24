@@ -1,0 +1,18 @@
+.Counter{
+  border: 1px solid;
+  text-align: center;
+  padding: 10px;
+  background-color: antiquewhite;
+
+}
+
+.boxButton{
+  display: flex;
+justify-content: center;
+gap: 20px;
+}
+
+button:hover{
+  background-color: aqua;
+  cursor: pointer;
+}
